@@ -2,7 +2,7 @@
 &nbsp;
 
 <h4 align="center">
-	<img src="https://github.com/banxink/.github/assets/1629293/98ded039-b54d-4531-b5aa-1795028daa9a" width="180" alt="banxi"/><br/>
+	<img src="https://github.com/banxink/.github/assets/1629293/98ded039-b54d-4531-b5aa-1795028daa9a" width="160" alt="banxi"><br/>
 	Hi there, Welcome to Banxi
 </h4>
 
@@ -13,7 +13,7 @@
 </h6>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/1629293/181411755-ffc6f809-2a62-4aec-93c4-ed100cd3395a.png" width="300" height="3" />
+  <img src="https://user-images.githubusercontent.com/1629293/181411755-ffc6f809-2a62-4aec-93c4-ed100cd3395a.png" width="320" height="1" >
 </p>
 
 
@@ -26,7 +26,3 @@
 </p>
 
 &nbsp;
-
-<p align="center">
-  
-</p>
