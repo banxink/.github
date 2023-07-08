@@ -2,8 +2,8 @@
 &nbsp;
 
 <h4 align="center">
-	<img src="https://github.com/banxink/.github/assets/1629293/98ded039-b54d-4531-b5aa-1795028daa9a" width="160" alt="banxi"><br/>
-	Hi there, Welcome to Banxi
+	<img src="https://github.com/banxink/.github/assets/1629293/98ded039-b54d-4531-b5aa-1795028daa9a" width="160" alt="bànxi"><br/>
+	Hi there, Welcome to bànxi
 </h4>
 
 <h6 align="center">
@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  Banxi is making some contributions to front-end open source.
+  bànxi is making some contributions to front-end open source.
 </p>
 
 &nbsp;
